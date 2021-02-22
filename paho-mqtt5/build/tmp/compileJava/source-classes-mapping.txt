@@ -1,0 +1,14 @@
+com/nr/instrumentation/paho/MqttSubscribeWrapper.java
+ com.nr.instrumentation.paho.MqttSubscribeWrapper
+org/eclipse/paho/mqttv5/client/IMqttAsyncClient.java
+ org.eclipse.paho.mqttv5.client.IMqttAsyncClient
+com/nr/instrumentation/paho/InboundWrapper.java
+ com.nr.instrumentation.paho.InboundWrapper
+com/nr/instrumentation/paho/Utils.java
+ com.nr.instrumentation.paho.Utils
+com/nr/instrumentation/paho/MqttPublishActionWrapper.java
+ com.nr.instrumentation.paho.MqttPublishActionWrapper
+com/nr/instrumentation/paho/MessageListenerWrapper.java
+ com.nr.instrumentation.paho.MessageListenerWrapper
+com/nr/instrumentation/paho/OutboundWrapper.java
+ com.nr.instrumentation.paho.OutboundWrapper

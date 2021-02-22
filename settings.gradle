@@ -8,3 +8,5 @@ git {
     }
 }
 rootProject.name = 'java-instrumentation-template'
+include 'paho-mqtt3'
+include 'paho-mqtt5'
