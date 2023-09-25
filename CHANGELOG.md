@@ -1,11 +1,9 @@
 ## Version: [v1.0.1](https://github.com/newrelic-experimental/newrelic-java-mqtt-eclipse-paho/releases/tag/v1.0.1) | Created: 2023-09-25
-### Bug Fixes
-- Ixes to the build
-- Ixes to the build
+
 
 ### Build Upgrades
-- Pdate build.gradle
 - Updated vendor title and added release workflow
+
 
 
 ## Installation
